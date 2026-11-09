@@ -1,0 +1,10 @@
+{
+  "name": "Bhooka - Hyderabad Food",
+  "short_name": "Bhooka",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fffaf5",
+  "theme_color": "#ff7622",
+  "description": "Hyderabad food ordering demo app",
+  "orientation": "portrait-primary"
+}
